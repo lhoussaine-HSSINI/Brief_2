@@ -1,0 +1,17 @@
+.bac-he {
+    background-image: url(assets/img/hero-bg.jpg);
+}
+
+div.single-product-item {
+    background-color: #F8EDED;
+}
+
+a.cart-btn {
+    background-color: white;
+    color: black;
+}
+
+a.cart-btn:hover {
+    background-color: #F28123;
+    color: white;
+}
